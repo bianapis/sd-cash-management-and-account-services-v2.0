@@ -1,0 +1,24 @@
+{
+  "positivePayRetrieveActionTaskReference" : "PPRATR767715",
+  "positivePayRetrieveActionResponse" : "positivePayRetrieveActionResponse",
+  "positivePayInstanceRecord" : {
+    "positivePayCheckRegisterReportingSchedule" : "positivePayCheckRegisterReportingSchedule",
+    "checkRegister" : {
+      "checkDetails" : "checkDetails",
+      "dateRange" : "dateRange"
+    }
+  },
+  "positivePayInstanceAnalysis" : {
+    "positivePayInstanceAnalysisReport" : {},
+    "positivePayInstanceAnalysisParameters" : "positivePayInstanceAnalysisParameters",
+    "positivePayInstanceAnalysisReportType" : "positivePayInstanceAnalysisReportType",
+    "positivePayInstanceAnalysisRecord" : {}
+  },
+  "positivePayRetrieveActionTaskRecord" : {},
+  "positivePayInstanceReport" : {
+    "positivePayInstanceReportRecord" : {},
+    "positivePayInstanceReportParameters" : "positivePayInstanceReportParameters",
+    "positivePayInstanceReportType" : "positivePayInstanceReportType",
+    "positivePayInstanceReport" : {}
+  }
+}

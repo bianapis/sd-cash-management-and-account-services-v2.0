@@ -1,0 +1,23 @@
+{
+  "cashManagementAndAccountServicesFulfillmentArrangementInitiateActionRecord" : {},
+  "cashManagementAndAccountServicesFulfillmentArrangementInstanceReference" : "CMAASFAIR732684",
+  "cashManagementAndAccountServicesFulfillmentArrangementInstanceStatus" : "cashManagementAndAccountServicesFulfillmentArrangementInstanceStatus",
+  "cashManagementAndAccountServicesFulfillmentArrangementInitiateActionReference" : "CMAASFAIAR716895",
+  "cashManagementAndAccountServicesFulfillmentArrangementInstanceRecord" : {
+    "productInstanceReference" : "721081",
+    "restrictionOptionSetting" : "restrictionOptionSetting",
+    "dateType" : {
+      "date" : "09-22-2018"
+    },
+    "entitlementOptionSetting" : "entitlementOptionSetting",
+    "restrictionOptionDefinition" : "restrictionOptionDefinition",
+    "positionLimits" : {
+      "positionLimitSettings" : "positionLimitSettings",
+      "positionLimitType" : "positionLimitType",
+      "positionLimitValue" : "positionLimitValue"
+    },
+    "accountCurrency" : "USD",
+    "entitlementOptionDefinition" : "entitlementOptionDefinition",
+    "cashManagementAndAccountServicesAccountNumber" : "cashManagementAndAccountServicesAccountNumber"
+  }
+}

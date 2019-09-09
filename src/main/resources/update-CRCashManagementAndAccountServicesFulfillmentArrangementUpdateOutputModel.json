@@ -1,0 +1,35 @@
+{
+  "cashManagementAndAccountServicesFulfillmentArrangementUpdateActionTaskReference" : "CMAASFAUATR779392",
+  "cashManagementAndAccountServicesFulfillmentArrangementUpdateActionTaskRecord" : {},
+  "updateResponseRecord" : {},
+  "cashManagementAndAccountServicesFulfillmentArrangementInstanceRecord" : {
+    "associations" : {
+      "associationReference" : "755974",
+      "associationType" : "associationType",
+      "associationObligationEntitlement" : "associationObligationEntitlement"
+    },
+    "taxReference" : "732436",
+    "restrictionOptionSetting" : "restrictionOptionSetting",
+    "restrictionOptionDefinition" : "restrictionOptionDefinition",
+    "accountType" : "accountType",
+    "positionLimits" : {
+      "positionLimitSettings" : "positionLimitSettings",
+      "positionLimitType" : "positionLimitType",
+      "positionLimitValue" : "positionLimitValue"
+    },
+    "accountCurrency" : "USD",
+    "bankBranchLocationReference" : "794950",
+    "productInstanceReference" : "766752",
+    "dateType" : {
+      "date" : "09-22-2018"
+    },
+    "entitlementOptionSetting" : "entitlementOptionSetting",
+    "customerReference" : "783830",
+    "linkedAccounts" : {
+      "accountDetails" : "accountDetails",
+      "linkType" : "linkType"
+    },
+    "entitlementOptionDefinition" : "entitlementOptionDefinition",
+    "cashManagementAndAccountServicesAccountNumber" : "cashManagementAndAccountServicesAccountNumber"
+  }
+}

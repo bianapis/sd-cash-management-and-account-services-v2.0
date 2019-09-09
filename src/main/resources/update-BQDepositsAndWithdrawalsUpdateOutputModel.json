@@ -1,0 +1,24 @@
+{
+  "depositsAndWithdrawalsUpdateActionTaskRecord" : {},
+  "depositsAndWithdrawalsUpdateActionTaskReference" : "DAWUATR702668",
+  "depositsAndWithdrawalsInstanceRecord" : {
+    "withdrawalType" : "withdrawalType",
+    "accountLimitBreachResponse" : "accountLimitBreachResponse",
+    "withdrawalTransaction" : {
+      "withdrawalTransactionWithdrawalType" : "withdrawalTransactionWithdrawalType",
+      "withdrawalTransactionSourceReference" : "726837",
+      "withdrawalTransactionAmount" : "USD 250",
+      "withdrawalTransactionDate" : "09-22-2018",
+      "withdrawalTransactionDescription" : "withdrawalTransactionDescription"
+    },
+    "depositTransaction" : {
+      "depositTransactionDescription" : "depositTransactionDescription",
+      "depositTransactionDepositType" : "depositTransactionDepositType",
+      "depositTransactionSourceReference" : "719182",
+      "depositTransactionDate" : "09-22-2018",
+      "depositTransactionAmount" : "USD 250"
+    },
+    "depositType" : "depositType"
+  },
+  "updateResponseRecord" : {}
+}

@@ -1,0 +1,16 @@
+{
+  "serviceFeesInitiateActionRecord" : {},
+  "serviceFeesInitiateActionReference" : "SFIAR786079",
+  "serviceFeesInstanceStatus" : "serviceFeesInstanceStatus",
+  "cashManagementAndAccountServicesFulfillmentArrangementInstanceRecord" : {
+    "dateType" : {
+      "date" : "09-22-2018"
+    }
+  },
+  "serviceFeesInstanceReference" : "SFIR784181",
+  "serviceFeesInstanceRecord" : {
+    "feeConfigurationProfile" : {
+      "feeDefinition" : "feeDefinition"
+    }
+  }
+}

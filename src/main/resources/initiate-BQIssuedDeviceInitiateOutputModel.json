@@ -1,0 +1,30 @@
+{
+  "issuedDeviceInstanceReference" : "IDIR744603",
+  "issuedDeviceInitiateActionReference" : "IDIAR718140",
+  "issuedDeviceInstanceStatus" : "issuedDeviceInstanceStatus",
+  "cashManagementAndAccountServicesFulfillmentArrangementInstanceRecord" : {
+    "associations" : {
+      "associationReference" : "736665",
+      "associationType" : "associationType",
+      "associationObligationEntitlement" : "associationObligationEntitlement"
+    },
+    "dateType" : {
+      "date" : "09-22-2018"
+    },
+    "positionLimits" : {
+      "positionLimitSettings" : "positionLimitSettings"
+    }
+  },
+  "issuedDeviceInstanceRecord" : {
+    "issuedDeviceProperty" : {
+      "issuedDeviceStatus" : "issuedDeviceStatus",
+      "issuedDevicePropertyType" : {
+        "issuedDevicePropertyValue" : "issuedDevicePropertyValue"
+      }
+    },
+    "issuedDeviceDescription" : "issuedDeviceDescription",
+    "issuedDeviceOptionSetting" : "issuedDeviceOptionSetting",
+    "issuedDeviceOptionDefinition" : "issuedDeviceOptionDefinition"
+  },
+  "issuedDeviceInitiateActionRecord" : {}
+}

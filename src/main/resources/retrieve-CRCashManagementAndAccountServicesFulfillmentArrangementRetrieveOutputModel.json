@@ -1,0 +1,45 @@
+{
+  "cashManagementAndAccountServicesFulfillmentArrangementRetrieveActionTaskRecord" : {},
+  "cashManagementAndAccountServicesFulfillmentArrangementInstanceAnalysis" : {
+    "cashManagementAndAccountServicesFulfillmentArrangementInstanceAnalysisData" : "cashManagementAndAccountServicesFulfillmentArrangementInstanceAnalysisData",
+    "cashManagementAndAccountServicesFulfillmentArrangementInstanceAnalysisReportType" : "cashManagementAndAccountServicesFulfillmentArrangementInstanceAnalysisReportType",
+    "cashManagementAndAccountServicesFulfillmentArrangementInstanceAnalysisReport" : {}
+  },
+  "cashManagementAndAccountServicesFulfillmentArrangementRetrieveActionResponse" : "cashManagementAndAccountServicesFulfillmentArrangementRetrieveActionResponse",
+  "cashManagementAndAccountServicesFulfillmentArrangementInstanceReportRecord" : {
+    "cashManagementAndAccountServicesFulfillmentArrangementInstanceReportType" : "cashManagementAndAccountServicesFulfillmentArrangementInstanceReportType",
+    "cashManagementAndAccountServicesFulfillmentArrangementInstanceReport" : {},
+    "cashManagementAndAccountServicesFulfillmentArrangementInstanceReportData" : "cashManagementAndAccountServicesFulfillmentArrangementInstanceReportData"
+  },
+  "cashManagementAndAccountServicesFulfillmentArrangementInstanceRecord" : {
+    "associations" : {
+      "associationReference" : "717160",
+      "associationType" : "associationType",
+      "associationObligationEntitlement" : "associationObligationEntitlement"
+    },
+    "taxReference" : "738234",
+    "restrictionOptionSetting" : "restrictionOptionSetting",
+    "restrictionOptionDefinition" : "restrictionOptionDefinition",
+    "accountType" : "accountType",
+    "positionLimits" : {
+      "positionLimitSettings" : "positionLimitSettings",
+      "positionLimitType" : "positionLimitType",
+      "positionLimitValue" : "positionLimitValue"
+    },
+    "accountCurrency" : "USD",
+    "bankBranchLocationReference" : "763544",
+    "productInstanceReference" : "764041",
+    "dateType" : {
+      "date" : "09-22-2018"
+    },
+    "entitlementOptionSetting" : "entitlementOptionSetting",
+    "customerReference" : "722192",
+    "linkedAccounts" : {
+      "accountDetails" : "accountDetails",
+      "linkType" : "linkType"
+    },
+    "entitlementOptionDefinition" : "entitlementOptionDefinition",
+    "cashManagementAndAccountServicesAccountNumber" : "cashManagementAndAccountServicesAccountNumber"
+  },
+  "cashManagementAndAccountServicesFulfillmentArrangementRetrieveActionTaskReference" : "CMAASFARATR719452"
+}

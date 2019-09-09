@@ -1,0 +1,115 @@
+package org.bian.dto;
+
+import com.fasterxml.jackson.annotation.JsonProperty;
+import com.fasterxml.jackson.annotation.JsonCreator;
+import io.swagger.annotations.ApiModel;
+import io.swagger.annotations.ApiModelProperty;
+import org.bian.dto.CRCashManagementAndAccountServicesFulfillmentArrangementRetrieveOutputModelCashManagementAndAccountServicesFulfillmentArrangementInstanceAnalysis;
+import org.bian.dto.CRCashManagementAndAccountServicesFulfillmentArrangementRetrieveOutputModelCashManagementAndAccountServicesFulfillmentArrangementInstanceRecord;
+import org.bian.dto.CRCashManagementAndAccountServicesFulfillmentArrangementRetrieveOutputModelCashManagementAndAccountServicesFulfillmentArrangementInstanceReportRecord;
+
+import javax.validation.Valid;
+  
+/**
+ * CRCashManagementAndAccountServicesFulfillmentArrangementRetrieveOutputModel
+ */
+public class CRCashManagementAndAccountServicesFulfillmentArrangementRetrieveOutputModel   {
+  private CRCashManagementAndAccountServicesFulfillmentArrangementRetrieveOutputModelCashManagementAndAccountServicesFulfillmentArrangementInstanceRecord cashManagementAndAccountServicesFulfillmentArrangementInstanceRecord = null;
+
+  private String cashManagementAndAccountServicesFulfillmentArrangementRetrieveActionTaskReference = null;
+
+  private Object cashManagementAndAccountServicesFulfillmentArrangementRetrieveActionTaskRecord = null;
+
+  private String cashManagementAndAccountServicesFulfillmentArrangementRetrieveActionResponse = null;
+
+  private CRCashManagementAndAccountServicesFulfillmentArrangementRetrieveOutputModelCashManagementAndAccountServicesFulfillmentArrangementInstanceReportRecord cashManagementAndAccountServicesFulfillmentArrangementInstanceReportRecord = null;
+
+  private CRCashManagementAndAccountServicesFulfillmentArrangementRetrieveOutputModelCashManagementAndAccountServicesFulfillmentArrangementInstanceAnalysis cashManagementAndAccountServicesFulfillmentArrangementInstanceAnalysis = null;
+
+
+  /**
+   * Get cashManagementAndAccountServicesFulfillmentArrangementInstanceRecord
+   * @return cashManagementAndAccountServicesFulfillmentArrangementInstanceRecord
+  **/
+
+  public CRCashManagementAndAccountServicesFulfillmentArrangementRetrieveOutputModelCashManagementAndAccountServicesFulfillmentArrangementInstanceRecord getCashManagementAndAccountServicesFulfillmentArrangementInstanceRecord() {
+    return cashManagementAndAccountServicesFulfillmentArrangementInstanceRecord;
+  }
+
+  public void setCashManagementAndAccountServicesFulfillmentArrangementInstanceRecord(CRCashManagementAndAccountServicesFulfillmentArrangementRetrieveOutputModelCashManagementAndAccountServicesFulfillmentArrangementInstanceRecord cashManagementAndAccountServicesFulfillmentArrangementInstanceRecord) {
+    this.cashManagementAndAccountServicesFulfillmentArrangementInstanceRecord = cashManagementAndAccountServicesFulfillmentArrangementInstanceRecord;
+  }
+
+
+  /**
+   * `status: Not Mapped`  core-data-type-reference: BIAN::DataTypesLibrary::CoreDataTypes::ISO20022andUNCEFACT::Identifier  general-info: Reference to a Cash Management And Account Services Fulfillment Arrangement instance retrieve service call 
+   * @return cashManagementAndAccountServicesFulfillmentArrangementRetrieveActionTaskReference
+  **/
+
+  public String getCashManagementAndAccountServicesFulfillmentArrangementRetrieveActionTaskReference() {
+    return cashManagementAndAccountServicesFulfillmentArrangementRetrieveActionTaskReference;
+  }
+
+  public void setCashManagementAndAccountServicesFulfillmentArrangementRetrieveActionTaskReference(String cashManagementAndAccountServicesFulfillmentArrangementRetrieveActionTaskReference) {
+    this.cashManagementAndAccountServicesFulfillmentArrangementRetrieveActionTaskReference = cashManagementAndAccountServicesFulfillmentArrangementRetrieveActionTaskReference;
+  }
+
+
+  /**
+   * `status: Not Mapped`  core-data-type-reference: BIAN::DataTypesLibrary::CoreDataTypes::UNCEFACT::Binary  general-info: The retrieve service call consolidated processing record 
+   * @return cashManagementAndAccountServicesFulfillmentArrangementRetrieveActionTaskRecord
+  **/
+
+  public Object getCashManagementAndAccountServicesFulfillmentArrangementRetrieveActionTaskRecord() {
+    return cashManagementAndAccountServicesFulfillmentArrangementRetrieveActionTaskRecord;
+  }
+
+  public void setCashManagementAndAccountServicesFulfillmentArrangementRetrieveActionTaskRecord(Object cashManagementAndAccountServicesFulfillmentArrangementRetrieveActionTaskRecord) {
+    this.cashManagementAndAccountServicesFulfillmentArrangementRetrieveActionTaskRecord = cashManagementAndAccountServicesFulfillmentArrangementRetrieveActionTaskRecord;
+  }
+
+
+  /**
+   * `status: Not Mapped`  core-data-type-reference: BIAN::DataTypesLibrary::CoreDataTypes::UNCEFACT::Text  general-info: Details of the retrieve action service response (lists returned reports) 
+   * @return cashManagementAndAccountServicesFulfillmentArrangementRetrieveActionResponse
+  **/
+
+  public String getCashManagementAndAccountServicesFulfillmentArrangementRetrieveActionResponse() {
+    return cashManagementAndAccountServicesFulfillmentArrangementRetrieveActionResponse;
+  }
+
+  public void setCashManagementAndAccountServicesFulfillmentArrangementRetrieveActionResponse(String cashManagementAndAccountServicesFulfillmentArrangementRetrieveActionResponse) {
+    this.cashManagementAndAccountServicesFulfillmentArrangementRetrieveActionResponse = cashManagementAndAccountServicesFulfillmentArrangementRetrieveActionResponse;
+  }
+
+
+  /**
+   * Get cashManagementAndAccountServicesFulfillmentArrangementInstanceReportRecord
+   * @return cashManagementAndAccountServicesFulfillmentArrangementInstanceReportRecord
+  **/
+
+  public CRCashManagementAndAccountServicesFulfillmentArrangementRetrieveOutputModelCashManagementAndAccountServicesFulfillmentArrangementInstanceReportRecord getCashManagementAndAccountServicesFulfillmentArrangementInstanceReportRecord() {
+    return cashManagementAndAccountServicesFulfillmentArrangementInstanceReportRecord;
+  }
+
+  public void setCashManagementAndAccountServicesFulfillmentArrangementInstanceReportRecord(CRCashManagementAndAccountServicesFulfillmentArrangementRetrieveOutputModelCashManagementAndAccountServicesFulfillmentArrangementInstanceReportRecord cashManagementAndAccountServicesFulfillmentArrangementInstanceReportRecord) {
+    this.cashManagementAndAccountServicesFulfillmentArrangementInstanceReportRecord = cashManagementAndAccountServicesFulfillmentArrangementInstanceReportRecord;
+  }
+
+
+  /**
+   * Get cashManagementAndAccountServicesFulfillmentArrangementInstanceAnalysis
+   * @return cashManagementAndAccountServicesFulfillmentArrangementInstanceAnalysis
+  **/
+
+  public CRCashManagementAndAccountServicesFulfillmentArrangementRetrieveOutputModelCashManagementAndAccountServicesFulfillmentArrangementInstanceAnalysis getCashManagementAndAccountServicesFulfillmentArrangementInstanceAnalysis() {
+    return cashManagementAndAccountServicesFulfillmentArrangementInstanceAnalysis;
+  }
+
+  public void setCashManagementAndAccountServicesFulfillmentArrangementInstanceAnalysis(CRCashManagementAndAccountServicesFulfillmentArrangementRetrieveOutputModelCashManagementAndAccountServicesFulfillmentArrangementInstanceAnalysis cashManagementAndAccountServicesFulfillmentArrangementInstanceAnalysis) {
+    this.cashManagementAndAccountServicesFulfillmentArrangementInstanceAnalysis = cashManagementAndAccountServicesFulfillmentArrangementInstanceAnalysis;
+  }
+
+
+}
+
